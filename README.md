@@ -7,7 +7,7 @@ The application utilises REST API to send HTTP GET requests at 15-second interva
 
 The collected data is then used to plot a matplotlib graph to visually represent how the DIA values changes over time. The amount of collected data points can be altered by editing the for loop to iterate more of less times.
 
-I created this app as part of the tasks set in Citi's Technology Software Development on Forage!
+I created this app as part of the tasks set in Citi's Technology Software Development on Forage! https://www.theforage.com/dashboard
 
 ## Prerequisites
 - A Google account to utilise Google Colab
